@@ -1,0 +1,1 @@
+Este projeto tem como objetivo criar vários projetos em Python de modo a aprender esta linguagem de programação.
